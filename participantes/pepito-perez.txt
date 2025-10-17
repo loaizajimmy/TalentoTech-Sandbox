@@ -1,0 +1,3 @@
+Nombre: Pepito Pérez
+Ciudad: Manizales
+Expectativa: Aprender a programar en Python
