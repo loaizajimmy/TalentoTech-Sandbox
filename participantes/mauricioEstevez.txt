@@ -1,0 +1,3 @@
+Nombre: Mauricio Estévez
+Ciudad: Bogotá
+Expectativa: Aprender los fundamentos de IA
