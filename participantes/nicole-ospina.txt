@@ -1,2 +1,3 @@
 Nombre: Nicole Ospina 
-Ciudad: Medell¡n echo Expectativa: Aprender los fundamentos de IA  git add participantes/nicole-ospina.txt
+Ciudad: MedellÂ¡n 
+Expectativa: Aprender los fundamentos de IA 
